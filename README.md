@@ -1,5 +1,5 @@
 # **NEW GAMERS / HARDWARE PARA GAMERS Y DISEÑO GRAFICO** 
-- ![LogoChico](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Design/LOGO%20CHICO.png)
+                 ![LogoChico](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Design/LOGO%20CHICO.png)
 
 
 ## **NEW GAMERS** es un e-commerce destacado por nuestro conocimiento e intentamos establecernos como la opción ideal para sus compras de tecnologicas. Nuestro asesores se encuentran altamente capacitados para asesorarlo y ofrecerle exactamente lo que necesita. Marcas como Asus, SkullCandy, MSI, Gigabyte, Kingston, Intel, Nvidia, HP, Epson, Samsung y Western Digital nos han hecho sus representantes oficiales en el país. Aqui encontrarás todo lo que compone la PC de tus sueños tanto para trabajo como para ocio. Conocemos nuestros productos y por ello te asesoramos para que hagas una compra personalizada a la altura de tus necesidades.
