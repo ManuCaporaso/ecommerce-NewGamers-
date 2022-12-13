@@ -8,9 +8,9 @@
 
 ### **Tipografía Principal:** 
         Nuestras tipografias seran 3 
-        1. BARLOW en sus tipos Regular y Black 👉 [GitHub Pages](https://fonts.google.com/specimen/Barlow?selection.family=Catamaran:wght@100;300;500;800;900|Overlock:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&query=BARLOW)
-        2. MADE Evolve Sans en sus tipos Bold y Regular 👉 https://www.dafont.com/es/made-evolve-sans.font
-        3. TYPEWRITER en su tipo Regular 👉 https://www.dafont.com/es/typewriter-a602.font
+        1. BARLOW en sus tipos Regular y Black 👉 GOOGLE FONT
+        2. MADE Evolve Sans en sus tipos Bold y Regular 👉 DAFONT
+        3. TYPEWRITER en su tipo Regular 👉 DAFONT
 
 ### **Paleta de colores:** Nuestra paleta de colores tiene como objetivo usar una tonalidad respecto a los colores azules.
 #0B5ABA
