@@ -13,11 +13,11 @@
         3. TYPEWRITER en su tipo Regular 👉 DAFONT
 
 ### **Paleta de colores:** Nuestra paleta de colores tiene como objetivo usar una tonalidad respecto a los colores azules.
-#0B5ABA
-#073B7A
-#0E78FA
-#041C3B
-#0D6CE0
+#00a8c6
+#40c0cb
+#f9f2e7
+#aee239
+#8fbe00
 
 ![Paleta](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/paleta.png.png)
 
