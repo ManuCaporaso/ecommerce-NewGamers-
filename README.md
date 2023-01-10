@@ -25,7 +25,7 @@
 
 ![Logo](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Design/LOGO_FINAL.png)
 
--------------------------------------------------------------------------------------------
-[link Bocetado de Wireframe para Mobile] (https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Figma/ENTREGABLE2%20_MOBILE.pdf)
-[link Bocetado de Wireframe para Desktop] (https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Figma/ENTREGABLE2%20_DESKTOP.pdf)
+
+[link Bocetado de Wireframe para Mobile](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Figma/ENTREGABLE2%20_MOBILE.pdf)
+[link Bocetado de Wireframe para Desktop](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Figma/ENTREGABLE2%20_DESKTOP.pdf)
 
