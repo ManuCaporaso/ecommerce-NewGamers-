@@ -12,7 +12,7 @@
         2. MADE Evolve Sans en sus tipos Bold y Regular 👉 DAFONT
         3. TYPEWRITER en su tipo Regular 👉 DAFONT
 
-### **Paleta de colores:** Nuestra paleta de colores tiene como objetivo usar una tonalidad respecto a los colores azules.
+### **Paleta de colores:** Nuestra paleta de colores tiene como objetivo usar una tonalidad respecto a la combinacion de tonalidades de verdes y celestes, combinados en su mayoria con el color blanco.
 #00a8c6
 #40c0cb
 #f9f2e7
