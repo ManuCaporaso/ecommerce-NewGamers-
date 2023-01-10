@@ -1,5 +1,5 @@
 # **NEW GAMERS / HARDWARE PARA GAMERS Y DISEÑO GRAFICO** 
-   ![LogoChico](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/LOGO%20CHICO.png)
+   ![LogoChico](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Design/LOGO%20CHICO.png)
 
 
 ## **NEW GAMERS** es un e-commerce destacado por nuestros conocimientos e intentamos establecernos como la opción ideal para sus compras de tecnologicas. Nuestros asesores se encuentran altamente capacitados para asesorarlo y ofrecerle exactamente lo que Usted necesita. Marcas como Asus, SkullCandy, MSI, Gigabyte, Kingston, Intel, Nvidia, HP, Epson, Samsung y Western Digital nos han hecho sus representantes oficiales en el país. Aqui encontrarás todos los que componentes de la PC de tus sueños, tanto para trabajo como para ocio. Conocemos nuestros productos y por ello te asesoramos para que hagas una compra personalizada a la altura de tus necesidades.
@@ -19,9 +19,13 @@
 #aee239
 #8fbe00
 
-![Paleta](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/paleta.png.png)
+![Paleta](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Design/paleta.png.png)
 
 ### **LOGO E-COMMERCE**
 
-![Logo](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/LOGO_FINAL.png)
+![Logo](https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Design/LOGO_FINAL.png)
+
+-------------------------------------------------------------------------------------------
+![link Bocetado de Wireframe para Mobile] (https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Figma/ENTREGABLE2%20_MOBILE.pdf)
+![link Bocetado de Wireframe para Desktop] (https://github.com/ManuCaporaso/ecommerce-NewGamers-/blob/main/Figma/ENTREGABLE2%20_DESKTOP.pdf)
 
