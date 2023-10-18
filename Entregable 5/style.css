@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;1,700&display=swap');
 
 * {
@@ -143,4 +144,151 @@ align-items: center;
     color: #f9f2e7;
     font-size: 1.7rem;
     margin-bottom: 80px;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Barlow', sans-serif;
+}
+
+:root{
+    --primary: #00a8c6;
+    --secondary: #aee239;
+}
+
+body   {
+    background: #f9f2e7;
+}
+
+/*HEADER*/
+
+.cabecera {
+    background-color: #00a8c6;
+    text-shadow: 3px 3px black;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+nav {
+    display: flex;
+    margin: 10px;
+}
+
+nav a {
+    padding-right: 5px;
+    margin: 10px;
+    color: #f9f2e7;
+    font-size: 25px;
+}
+nav a:hover {
+    color: #aee239;
+}
+
+
+
+
+/*FOOTER*/
+
+footer {
+    background-color: #40c0cb;
+}
+.logo2 img {
+    height: 180px;
+    width: 180px;
+    display: block;
+    margin: auto;
+    
+}
+
+.logo2 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.redes{
+    align-items: center;
+}
+
+.redes img {
+    height: 80px;
+    width: 80px;
+    flex-direction: row;
+    margin-left: 40px;
+    
+}
+
+.texto2 h3 {
+    color: #aee239;
+    font-size: 30px;
+    text-shadow: 3px 3px black;
+    margin-bottom: 10px;
+}
+
+.texto2 h4 {
+    color: #f9f2e7;
+    text-shadow: 3px 3px black;
+}
+
+/*FORMULARIO*/
+
+.registrate {
+    background-color: #00a8c6;
+    border-radius: 30px;
+    margin: 15px;
+
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+input {
+    border-radius: 15px;
+    padding: 15px;
+    margin: 20px;
+}
+
+
+
+button {
+    font-size: 35px;
+    color: #aee239;
+    text-shadow: 2px 2px black;
+    border-radius: 50px;
+    background-color: #00a8c6;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-bottom: 150px;
+}
+
+.links {
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.links a {
+    padding: 20px;
+    color: #f9f2e7;
+    font-size: 1.7rem;
+    margin-bottom: 80px;
+>>>>>>> 5080d6a975f821a7f2d9ec4dd771559eff033950
 }

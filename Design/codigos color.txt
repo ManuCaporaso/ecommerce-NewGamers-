@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Celeste oscuro: #00a8c6
 Celeste claro: #40c0cb
 Blanco: #f9f2e7
 Verde claro: #aee239
 Verde oscuro: #8fbe00
+=======
+Celeste oscuro: #00a8c6
+Celeste claro: #40c0cb
+Blanco: #f9f2e7
+Verde claro: #aee239
+Verde oscuro:#8fbe00
+>>>>>>> 5080d6a975f821a7f2d9ec4dd771559eff033950

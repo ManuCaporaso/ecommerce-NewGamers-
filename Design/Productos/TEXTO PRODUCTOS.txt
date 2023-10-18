@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Gabinete Pc Gamer Sentey F10 Rgb Usb 3.0 Acrilico Sin Fuente
 
 $19.799
@@ -17,3 +18,18 @@ Placa de video Nvidia MSI Ventus XS GeForce GTX 16 Series GTX  1660 OC Edition 6
 Mother Asus Prime B460m-a S1200 Intel B460 Hdmi R2.0
 
 Procesador gamer AMD Ryzen 5 5600X 100 de 6 nucleos y 4.6GHz de Frecuencia
+=======
+Gabinete Pc Gamer Sentey F10 Rgb Usb 3.0 Acrilico Sin Fuente
+
+$19.799
+en 6x $4.895,30
+
+Monitor gamer curvo Samsung Odyssey G5 S27AG55 27" negro 100V/240V
+$156.789
+en 6x $38.766 
+
+Mouse de juego Logitech G Series Hero G502 kda
+
+$14.300
+en 6x $3.535,68 
+>>>>>>> 5080d6a975f821a7f2d9ec4dd771559eff033950
