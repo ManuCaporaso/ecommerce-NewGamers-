@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,400;1,700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Barlow', sans-serif;
+}
+
+:root{
+    --primary: #00a8c6;
+    --secondary: #aee239;
+}
+
+body   {
+    background: #f9f2e7;
+}
+
+/*HEADER*/
+
+.cabecera {
+    background-color: #00a8c6;
+    height: 80px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 80px;
+    height: 80px;
+}
+
+nav {
+    display: flex;
+    margin: 10px;
+}
+
+nav a {
+    padding-right: 5px;
+    margin: 10px;
+    color: #f9f2e7;
+    font-size: 42px;
+}
+nav a:hover {
+    color: #aee239;
+}
+
+
+/*BANNER*/
+
+section#hero {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+
+.contenedor-banner {
+    display: flex;
+    flex-direction: row;
+}
+
+.contenedor-banner img {
+    height: 250px;
+    width: 250px;
+}
+
+.texto {
+    display: flex;;
+    flex-direction: column;
+    margin-top: 30px;
+}
+
+h1 {
+    color: #00a8c6;
+    font-size: 70px;
+}
+
+h2 {
+    color: #aee239;
+    font-size: 35px;
+    margin-left: 40px;
+}
+
+hr {
+    height: 4px;
+  background-color: black;
+}
+
+/*OFERTAS*/
+
+section#ofertas img {
+    width: 100%;
+    height: 200px;
+}
+
+/*PRODUCTOS*/
+
+.productos1 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-bottom: 50px;
+    justify-content: space-around;
+}
+
+.uno {
+    padding-left: 40px;
+    padding-top: 60px;
+}
+
+.contenedor {
+    display: flex;
+    flex-direction: row;
+}
+
+.producto img {
+    height: 250px;
+    width: 250px;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+.carrito {
+    display: flex;
+    flex-direction: row;
+    align-items: initial;
+    text-align: center;
+    padding: 10px;
+}
+
+.carrito img {
+    height: 60px;
+    width: 60px;
+}
+
+button {
+    font-size: 15px;
+    color: #aee239;
+    border-radius: 15px;
+    background-color: #00a8c6;
+    padding: 5px;
+}
+
+h3 {
+    font-size: 25px;
+    color: #00a8c6;
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    color: #00a8c6;
+    text-align: center;
+}
+
+.cuotas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* FOOTER */
+
+.container-pie {
+    background-color: #40c0cb;
+    width: 100%;
+    height: 200px;
+}
+
+.container-pie > h4 {
+    color: #f9f2e7;
+    text-align: center;
+
+}
